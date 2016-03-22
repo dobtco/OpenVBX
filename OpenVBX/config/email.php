@@ -6,7 +6,7 @@
 | -------------------------------------------------------------------
 */
 $config['useragent'] = 'CodeIgniter';   //The "user agent".
-$config['protocol'] = 'mail';   //mail, sendmail, or smtp	The mail sending protocol.
+$config['protocol'] = 'sendmail';   //mail, sendmail, or smtp	The mail sending protocol.
 $config['mailpath'] = '/usr/sbin/sendmail';   //The server path to Sendmail.
 
 /*
