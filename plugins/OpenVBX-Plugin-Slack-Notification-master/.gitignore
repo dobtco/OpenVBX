@@ -1,0 +1,10 @@
+# Ctags tags
+.tags
+
+# Vim swapfiles
+*.swp
+*.swo
+
+# OS Garbage
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+{
+    "name" : "Slack",
+    "author" : "Kevin Mershon <kevin@mershon.enterprises>, Jonathan Kressaty <jonathan.kressaty@gmail.com>",
+    "description" : "Makes a request to Slack",
+    "url" : "http://openvbx.org"
+}

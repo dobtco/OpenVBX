@@ -1,0 +1,5 @@
+{
+    "name" : "Slack",
+    "description" : "Makes a request to Slack",
+    "type" : ["voice"]
+}
